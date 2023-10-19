@@ -1,3 +1,4 @@
 # Unifacisa
 
-__*REPOSITORIO DESTINADO AO ARMAZENAMENTO DE ATIVIDADES REALIZADAS DURANTE O CURSO DE SISTEMAS DE INFORMAÇÃO NO CENTRO UNIVERSITÁRIO UNIFACISA.*__
+__*repositorio destinado ao armazenamento de atividades realizadas durante o curso de sistemas de informação no centro universitário unifacisa.*__
+
